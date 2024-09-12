@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Wang Dingyi, a student in University of Chinese Academy of Sciences. I'd like to study in Github and try to make some contributions to the community
 <!--
 **wang-dingyi/wang-dingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
